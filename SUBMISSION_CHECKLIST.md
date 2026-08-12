@@ -11,7 +11,7 @@ the mechanical ones.
 - [X] At least the required combined fund with two methods, backtested
       out-of-sample with no look-ahead, with a fact sheet.
 - [X] streamlit_app.py runs locally: streamlit run streamlit_app.py.
-- [ ] The GitHub repo is PUBLIC and the live Streamlit app loads.
+- [X] The GitHub repo is PUBLIC and the live Streamlit app loads.
 - [X] Raw data loads through src/data_access.py; no raw data or secrets committed.
       (Your derived results/ artifacts - the CSVs the app reads - ARE committed.)
 - [X] AGENTS.md or CLAUDE.md (your tool's file) is YOUR own, not the stub.
