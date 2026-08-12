@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# macOS / IDE
+.DS_Store
+.idea/
+
+# Local NLTK resources
+.nltk_data/
+
+# Raw hosted data
+# Raw data must load through src/data_access.py and should not be committed.
+/data/
+*.parquet
+
+# CSV files are ignored by default,
+# but derived outputs under results/ must be committed.
+*.csv
+!results/
+!results/**/*.csv
+
+# Secrets
+.streamlit/secrets.toml

@@ -1,0 +1,7 @@
+metric,value
+headline_rows_scored,146830.0
+unique_headlines_scored,105329.0
+finance_lexicon_terms,25.0
+plain_vader_neutral_rate,0.4886688376420549
+finance_vader_neutral_rate,0.4693294344387586
+headline_scores_changed,8741.0
